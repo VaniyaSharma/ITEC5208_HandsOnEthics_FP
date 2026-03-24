@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low poly wood tray
+* source:	https://sketchfab.com/3d-models/low-poly-wood-tray-be90fde79cfb49d798e2c2e9ce9b0e6e
+* author:	Voyage (https://sketchfab.com/vrsns_voyage)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low poly wood tray" (https://sketchfab.com/3d-models/low-poly-wood-tray-be90fde79cfb49d798e2c2e9ce9b0e6e) by Voyage (https://sketchfab.com/vrsns_voyage) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
