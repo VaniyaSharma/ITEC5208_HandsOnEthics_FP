@@ -1,0 +1,11 @@
+Model Information:
+* title:	My desk
+* source:	https://sketchfab.com/3d-models/my-desk-a74528a9376e4a50892d59c8992c3a7d
+* author:	laurenmeyer (https://sketchfab.com/laurenmeyer)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "My desk" (https://sketchfab.com/3d-models/my-desk-a74528a9376e4a50892d59c8992c3a7d) by laurenmeyer (https://sketchfab.com/laurenmeyer) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
