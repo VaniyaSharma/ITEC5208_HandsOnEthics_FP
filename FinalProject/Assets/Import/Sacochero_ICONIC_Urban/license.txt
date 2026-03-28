@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sacochero ICONIC Urban
+* source:	https://sketchfab.com/3d-models/sacochero-iconic-urban-93e5f45559f64d319e22db5b368237f6
+* author:	cgartefacts (https://sketchfab.com/cgartefacts)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sacochero ICONIC Urban" (https://sketchfab.com/3d-models/sacochero-iconic-urban-93e5f45559f64d319e22db5b368237f6) by cgartefacts (https://sketchfab.com/cgartefacts) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
