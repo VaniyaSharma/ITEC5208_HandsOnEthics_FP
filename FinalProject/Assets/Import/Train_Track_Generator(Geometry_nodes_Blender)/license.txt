@@ -1,0 +1,11 @@
+Model Information:
+* title:	Train Track Generator(Geometry nodes Blender)
+* source:	https://sketchfab.com/3d-models/train-track-generatorgeometry-nodes-blender-d487949c34ab47bd9f0909d18870f690
+* author:	Mukhesh (https://sketchfab.com/mukhesh)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Train Track Generator(Geometry nodes Blender)" (https://sketchfab.com/3d-models/train-track-generatorgeometry-nodes-blender-d487949c34ab47bd9f0909d18870f690) by Mukhesh (https://sketchfab.com/mukhesh) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

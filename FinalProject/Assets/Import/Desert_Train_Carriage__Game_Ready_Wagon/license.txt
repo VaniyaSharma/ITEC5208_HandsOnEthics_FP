@@ -1,0 +1,11 @@
+Model Information:
+* title:	Desert Train Carriage | Game Ready Wagon
+* source:	https://sketchfab.com/3d-models/desert-train-carriage-game-ready-wagon-780fda471db0490aa76496bed8fa9e71
+* author:	PolyNest (https://sketchfab.com/polyNeast)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Desert Train Carriage | Game Ready Wagon" (https://sketchfab.com/3d-models/desert-train-carriage-game-ready-wagon-780fda471db0490aa76496bed8fa9e71) by PolyNest (https://sketchfab.com/polyNeast) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
