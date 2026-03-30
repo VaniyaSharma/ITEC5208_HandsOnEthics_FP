@@ -4822,14 +4822,14 @@ MonoBehaviour:
     one to save them or risk your life:
 
 
-    1.Press the button to save them.
+    1.Press the button to save yourself,
+    killing them.
 
-    2.
-    Don''t press the button to save yourself, killing them.
+    2. Don''t press the button to save them, killing yourself.
 
 
-    Your decision is
-    final once you do or don''t press the button.'
+    Your
+    decision is final once you do or don''t press the button.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
