@@ -1,0 +1,11 @@
+Model Information:
+* title:	Desert Railway Outpost- Real-Time Environment
+* source:	https://sketchfab.com/3d-models/desert-railway-outpost-real-time-environment-a65257b57a634342a0352c4e5b011e05
+* author:	pranavranjan2212 (https://sketchfab.com/pranavranjan2212)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Desert Railway Outpost- Real-Time Environment" (https://sketchfab.com/3d-models/desert-railway-outpost-real-time-environment-a65257b57a634342a0352c4e5b011e05) by pranavranjan2212 (https://sketchfab.com/pranavranjan2212) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
