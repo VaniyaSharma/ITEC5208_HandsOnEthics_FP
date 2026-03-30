@@ -35,6 +35,8 @@ public class TrolleyScenarioManager : MonoBehaviour
     [SerializeField] private bool lockY = true;
     [SerializeField] private bool lockZ = true;
 
+    [SerializeField] private GameObject startPanel;
+
 
     private bool switchedTrack = false;
     private bool scenarioEnded = false;
@@ -42,6 +44,7 @@ public class TrolleyScenarioManager : MonoBehaviour
     public float turnSpeed = 120f;
     private Vector3 lockedPosition;
     private Vector3 lockedEuler;
+    private bool experienceStarted = false;
 
     private void Start()
     {
@@ -89,7 +92,18 @@ public class TrolleyScenarioManager : MonoBehaviour
     //}
     private void Update()
     {
-       
+        // Auto-start when panel is disabled
+        if (!experienceStarted)
+        {
+            if (startPanel == null || !startPanel.activeInHierarchy)
+            {
+                experienceStarted = true;
+                Debug.Log("Experience started (panel disabled).");
+            }
+        }
+      
+
+        if (!experienceStarted) return;
         if (scenarioEnded || train == null) return;
 
         Transform currentTarget = !passedFork
