@@ -4340,6 +4340,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 658028464602686504, guid: 97d816da72760a74f8029a2f44a871cf, type: 3}
+      propertyPath: m_UseGravity
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1178791450436251564, guid: 97d816da72760a74f8029a2f44a871cf, type: 3}
+      propertyPath: m_RequestedTrackingOriginMode
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 1717954561962503725, guid: 97d816da72760a74f8029a2f44a871cf, type: 3}
       propertyPath: m_Name
       value: XR Origin (XR Rig)
@@ -10444,8 +10452,8 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 6.6174326, y: 6.174252, z: 0.78978664}
-  m_Center: {x: -2.7993758, y: -2.6941292, z: -0.39489326}
+  m_Size: {x: 1.10696, y: 0.86017156, z: 0.78978664}
+  m_Center: {x: -1.8705281, y: -2.6455698, z: -0.39489323}
 --- !u!1 &1263674637
 GameObject:
   m_ObjectHideFlags: 0
@@ -12833,6 +12841,10 @@ PrefabInstance:
     - target: {fileID: 6598815579406187037, guid: 5153fe979be0a964c969138550829966, type: 3}
       propertyPath: m_Name
       value: XR Device Simulator
+      objectReference: {fileID: 0}
+    - target: {fileID: 6598815579406187037, guid: 5153fe979be0a964c969138550829966, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
